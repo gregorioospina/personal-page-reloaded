@@ -1,0 +1,13 @@
+.menu-side-bar {
+  margin: 20px;
+}
+
+.card.menu-card {
+  min-width: 180px;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.card-body {
+  padding: 0;
+}

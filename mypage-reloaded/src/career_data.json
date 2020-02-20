@@ -1,0 +1,41 @@
+{
+  "experience": [
+    {
+      "title": "Teacher Assistant",
+      "subtitle": "Computing Infrastructure Class at Universidad de los Andes",
+      "description": "Teacher Assistant for the class Computational Infrastructure. Topics covered: Concurrency, Operating Systems, Crypto-Security In charge of a small laboratory class.",
+      "date": ""
+    },
+    {
+      "title": "Software Developer at Bizagi Latam",
+      "subtitle": "Bizagi Latam",
+      "description": "Software developer working in a .NET framework for the area of DevOps. Developed a migration tool which helps the client migrate their SQL database from previous to the latest version avoiding ladder upgrade."
+    },
+    {
+      "title": "Project Promoter, CIICEP",
+      "subtitle": "Centre for Investigation, Innovation and COnsulting for Undergrad Students",
+      "description": "Student based consulting firm. Did consulting projects with real companies for projects like supply line optimization, market analysis, web-page development. Promoter was the role for the head of the project and contact between company and development team.",
+      "date": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "3rd Place Zoohackathon",
+      "subtitle": "Curbing illegal wood traffic in Colombia with Blockchain",
+      "description": "My team proposed using blockchain network in order to track the movement of legal shipments with absolute transparency and immutability in order to create consumer awareness to purchase the wood derivative products that were certified by our initiative.",
+      "date": "November, 2019"
+    },
+    {
+      "title": "UML Model Automatic Validator",
+      "subtitle": "Automatically validates UML Class Models",
+      "description": "Implemented a UML model validator that automatically checks the validity and correctness of any UML class diagram. Used in a MOOC course for the university’s online masters program in Coursera.",
+      "date": "Summer, 2019"
+    },
+    {
+      "title": "Piece Of Advice",
+      "subtitle": "Webpage for seeking and giving advice ",
+      "description": "Web page for people needing advice, with the aim to start conversations and become an outlet for people to freely express themselves.",
+      "date": ""
+    }
+  ]
+}
